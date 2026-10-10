@@ -5,7 +5,7 @@
 Built for the HackNowa Global Hackathon 2026 · Problem statement: **AI for Everyday Life**
 
 - **Live demo:** https://claude.ai/artifact/2zQwEnGYFYez9xVJh2kMCR
-- **Demo video:** `<add your video link here>`
+- **Demo video:** `https://drive.google.com/file/d/1X12ZE3w7hdzbyF_8zz0bzpE2ou-MuXdR/view?usp=sharing`
 - **Author:** Akash (individual entry)
 
 ---
